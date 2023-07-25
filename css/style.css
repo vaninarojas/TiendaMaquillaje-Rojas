@@ -1,0 +1,31 @@
+.logovanis{width: 20%; height: auto; }
+
+header{display: flex;
+flex-direction: row;
+justify-content: space-between;}
+
+
+li{list-style-type: none ; padding: 10px;margin: 10px;}
+
+    li{display: inline;}
+
+    a{text-decoration: none;color: black; font-size: 20px;}
+
+    header,footer{background-color: violet;}
+
+
+.imgprincipal{width: 100%; height:auto; display: flex; justify-content: center; border-radius: 20px;
+padding:5px; margin: 5px;}
+
+.rrss, .contacto{font-size: 20px; color: black;}
+
+.ig{width: 50%;height: auto; border-radius: 10px;}
+
+.logovanisF{width: 100%;height: auto;}
+
+footer{display: flex; padding: 20px;
+    flex-direction: row; 
+    justify-content: space-between;}
+
+
+          
